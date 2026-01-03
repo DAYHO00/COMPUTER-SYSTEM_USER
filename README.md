@@ -37,9 +37,9 @@
 ---
 
 ## 🛠 기술 스택
-Language : C, Python
-OS : Linux (Ubuntu)
-Tools : gcc, gdb
+- Language : C, Python
+- OS : Linux (Ubuntu)
+- Tools : gcc, gdb
 
 ---
 
